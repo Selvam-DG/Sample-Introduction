@@ -1,0 +1,32 @@
+Git & GitHub
+1.	Remote Repository:
+a.	Repository => Repo => Project Folder/package
+b.	Remote Repo is nothing but store a project on Server. For ex., Github is one example of remote repository hosting service. There are many remote repository hosting services like Bitbucket, Perforce, Gitlab, etc.
+2.	Local Repository:
+-	It is a local computer storage where our project stores
+3.	Staging area:
+a.	Area where changes are yet to be committed
+b.	Required files pushed to staging area and then pushed to local repository.
+c.	From working directory to staging area, single files only can be pushed. But from staging to local or local to remote repo, all files could be sent.
+
+4.	Working Directory:
+Untracked files in git is called Working Directory. (i.e, After creating files or folders, not saving in local repo).
+
+
+
+a.	git init => initializing a project or folder to git repository.
+b.	git  status => to know the status of repository.
+c.	git add  => to add single files from working depository to staging area.
+d.	git commit => to push files to local repo from staging. -m “comments” is used for commenting your code 
+e.	git branch => to know which branch we are working/coding our files
+i.	git checkout -b :
+-  checkout command is used to jump between branches.
+-  “-b” is used to create new branch. (eg git checkout -b dgs) 
+
+f.	git push=>
+i.	only git push shows an error if many branches with master in remote repo
+ii.	git push – “which branch”. This command is used to create a new branch/ add files to mentioned branch.
+g.	git pull =>
+ pull request has to give to push files/project from branches to main. This has to be done by Team lead. After review, check the comments if TL mentioned 
+h.	git conflicts =>
+i.	git merge =>
