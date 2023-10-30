@@ -1,2 +1,3 @@
 # Sample-Introduction
-Config files for my GitHub profile.
+I signed in to GitHub in 2021 and trying to learn the features.
+
