@@ -30,7 +30,8 @@ f.	**git push**=>
    
 g.	**git pull** =>
 
-     pull request has to give to push files/project from branches to main. This has to be done by Team lead. After review, check the comments if TL mentioned 
+     pull request has to give to push files/project from branches to main. 
+     This has to be done by Team lead. After review, check the comments if TL mentioned 
 h.	**git conflicts** =>
 
 i.	**git merge** =>
