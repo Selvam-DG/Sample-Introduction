@@ -1,1 +1,7 @@
 # Commands in Terminal to create/run the program
+
+=> "code filename.c" is create the file with the filename
+=> "make filename" to compile the file.
+=> " ./filename" can run the program.
+=> rm is remove the file
+=> cd is used to change the directory
